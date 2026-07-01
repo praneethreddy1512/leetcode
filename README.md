@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/praneethreddy1512/leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/praneethreddy1512/leetcode/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
 | ------- |
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/praneethreddy1512/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/praneethreddy1512/leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
