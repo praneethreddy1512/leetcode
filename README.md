@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praneethreddy1512/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/praneethreddy1512/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/praneethreddy1512/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/praneethreddy1512/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/praneethreddy1512/leetcode/tree/master/0709-to-lower-case) |
